@@ -1,4 +1,4 @@
-<h2 align="left"># #Análise de dados das hipóteses para um novo grupo musical<br>Uma gravadora deseja lançar um novo grupo musical  no cenário global utilizando os dados do Spotify de 2023.<br>Este repositório terá a ficha tecnica do projeto de análise dos dados do Spotify, as queries utilizadas para limpar e tratar os dados e os scripts feitos para realizar os testes estatísticos para responder as hipóteses levantadas pela gravadora.<br>Este projeto foi realizado em dupla por Bruna Paiva e Bruna Pereira.</h2>
+<h2 align="left"><br>Uma gravadora deseja lançar um novo grupo musical  no cenário global utilizando os dados do Spotify de 2023.<br>Este repositório terá a ficha tecnica do projeto de análise dos dados do Spotify, as queries utilizadas para limpar e tratar os dados e os scripts feitos para realizar os testes estatísticos para responder as hipóteses levantadas pela gravadora.<br>Este projeto foi realizado em dupla por Bruna Paiva e Bruna Pereira.</h2>
 
 ###
 
