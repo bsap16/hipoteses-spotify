@@ -1,6 +1,32 @@
-<h2 align="left"><br>Uma gravadora deseja lançar um novo grupo musical  no cenário global utilizando os dados do Spotify de 2023.<br>Este repositório terá a ficha tecnica do projeto de análise dos dados do Spotify, contendo as queries utilizadas para limpar e tratar os dados e os scripts feitos para realizar os testes estatísticos para responder as hipóteses levantadas pela gravadora. Deixaremos a base de dados que utilizamos no Google Colab e a cópia do notebook também do Google Colab. Os dados poderam ser visualizados num dashboard desenvolvido no Power BI. <br>Este projeto foi realizado em dupla por Bruna Paiva e Bruna Pereira.</h2>
+ Projeto de Análise de Dados do Spotify  
+*(Estratégia de Lançamento de Grupo Musical Global)*  
 
-###
+---
+
+
+### 📌 **Visão Geral**  
+Uma gravadora deseja lançar um novo grupo musical no cenário global utilizando dados do Spotify de 2023. Este repositório contém a **documentação técnica** do projeto, incluindo scripts de limpeza de dados, testes estatísticos e um dashboard interativo para orientar decisões estratégicas.  
+
+---
+
+### 🚀 **Recursos Principais**  
+- **Queries de Limpeza de Dados**: Pré-processamento e tratamento dos dados brutos.  
+- **Scripts de Análise Estatística**: Testes para validar hipóteses estratégicas da gravadora.  
+- **Dataset no Google Colab**: Base de dados pronta para reprodução da análise.  
+- **Notebook de Análise**: Código completo no Google Colab com visualizações e explicações.  
+- **Dashboard no Power BI**: Relatório interativo para explorar insights de audiência, gêneros e tendências.   
+
+---
+
+### 🛠️ **Tecnologias Utilizadas**  
+- **Linguagens**: Python, SQL  
+- **Ferramentas**: Google Colab, Power BI  
+- **Bibliotecas**: Pandas, NumPy, SciPy, Matplotlib, Seaborn e Scikit-learn  
+
+---
+
+### 👥 **Equipe**  
+Desenvolvido em parceria por:  
 
 <p align="left">Bruna Paiva:</p>
 
